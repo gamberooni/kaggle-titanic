@@ -1,6 +1,7 @@
 ## Introduction
 This is my **first** Kaggle challenge! The legendary Titanic ML competition is perfect for those who are getting started in the ML field. The challenge is to use machine learning to create a model that predicts which passengers survived the Titanic shipwreck from the given data set.
-## The challenge
+
+## The Challenge
 > The sinking of the Titanic is one of the most infamous shipwrecks in history.
 >
 > On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
@@ -8,8 +9,6 @@ This is my **first** Kaggle challenge! The legendary Titanic ML competition is p
 > While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 >
 > In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
-
-
 
 ## Data Set
 The data set consists of two .csv files: train.csv and test.csv. The training set has 891 passengers and the testing set has 418 passengers. The attributes are:
