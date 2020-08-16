@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 This is my **first** Kaggle challenge! The legendary Titanic ML competition is perfect for those who are getting started in the ML field. The challenge is to use machine learning to create a model that predicts which passengers survived the Titanic shipwreck from the given data set.
 ## The challenge
 > The sinking of the Titanic is one of the most infamous shipwrecks in history.
