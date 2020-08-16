@@ -25,7 +25,7 @@ The data set consists of two .csv files: train.csv and test.csv. The training se
 
 The target value is to predict whether the passenger survived that shipwreck. Since this is a binary classification problem, **0** means the passenger did **not survived** and **1** means the passenger did **survived**. 
 
-The data set can be found [here]([https://www.kaggle.com/c/titanic/data]). 
+The data set can be found [here](https://www.kaggle.com/c/titanic/data). 
 
 ## Content
 ### 1. Data exploration
